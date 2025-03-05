@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdbool.h>
 
-bool check(double a, double b){
+bool check(double a, double b){ 
 	double eps = 0.000001;
 	return fabs(a-b) < eps;
 }
