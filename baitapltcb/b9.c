@@ -26,6 +26,5 @@ int main (){
 		default:
 			printf("Thang ko hop le");
 	}
-	
 	return 0;
 }
