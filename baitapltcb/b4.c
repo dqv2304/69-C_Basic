@@ -2,7 +2,7 @@
 #include<math.h>
 
 int main(){
-	int R;
+	int R; 
 	scanf("%d", &R);
 	double s = (4 * M_PI * R*R);
 	double v = (4 * M_PI * (double)pow(R, 3)/3);
