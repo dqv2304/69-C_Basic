@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main (){
-	float pts;
+	float pts; 
 	scanf("%f", &pts);
 	if (pts < 5 ) 
 		printf("Yeu !");
