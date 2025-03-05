@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<math.h>
 
-int main() {
+int main() { 
 	long long x;
 	scanf("%d", &x);
 	printf("%d \n", (long long)pow(x,2));
