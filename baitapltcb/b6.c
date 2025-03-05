@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main (){
+int main (){ 
 	float a,b,c,d,e,f;
 	scanf("%f%f%f%f%f%f", &a, &b, &c, &d,&e,&f);
 	float D = a*e - b*d;
