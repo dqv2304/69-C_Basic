@@ -3,10 +3,10 @@
 
 int main() { 
 	long long x;
-	scanf("%d", &x);
-	printf("%d \n", (long long)pow(x,2));
-	printf("%d \n", (long long)pow(x,3));
-	printf("%d \n", (long long)pow(x,4));
+	scanf("%lld", &x);
+	printf("%lld \n", (long long)pow(x,2));
+	printf("%lld \n", (long long)pow(x,3));
+	printf("%lld \n", (long long)pow(x,4));
 
     return 0;
 }
