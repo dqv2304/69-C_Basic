@@ -3,7 +3,7 @@
 
 int main() { 
 	long long x;
-	scanf("%lld", &x);
+	scanf("Nhap so gi chua nguoi dep: %lld", &x);
 	printf("%lld \n", (long long)pow(x,2));
 	printf("%lld \n", (long long)pow(x,3));
 	printf("%lld \n", (long long)pow(x,4));
