@@ -20,4 +20,6 @@ int main (){
     printf("phan tu lon nhat la: %d \n", max);
     printf("pahn tu be nhat la: %d ", min);
 
+    return 0;
+
 }
